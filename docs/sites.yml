@@ -1752,3 +1752,14 @@
   built_by: Peter Hironaka
   built_by_url: https://github.com/PHironaka
   featured: false
+  - title: Davis Legal
+  description: >
+    Barrister-in-law with over 35 years experience in the industry.
+  main_url: http://davislegal.com.au/
+  url: http://davislegal.com.au/
+  categories:
+    - Marketing
+    - Corporate
+  built_by: Samantha Scott at Thrive Web
+  built_by_url: https://thriveweb.com.au
+  featured: false
